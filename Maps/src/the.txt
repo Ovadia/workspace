@@ -1,0 +1,640 @@
+83
+Albany-NY  42.75  73.8
+
+Albert-Lea-MN  43.68  93.37
+
+Albuquerque  35.05  106.6
+
+Amarillo  35.23  101.7
+
+Atlanta  33.65  84.42
+
+Baltimore  39.18  76.67
+
+Bangor  44.8  68.82
+
+Barstow-CA  34.9  117.02
+
+Billings  45.8  108.53
+
+Binghamton  42.1  75.92
+
+Birmingham  33.57  86.75
+
+Boise  43.57  116.22
+
+Boston  42.37  71.03
+
+Buffalo-NY  42.93  78.73
+
+Buffalo-WY  44.35  106.7
+
+Burlington-VT  44.48  73.22
+
+Butte-MT  45.95  112.5
+
+Charleston-SC  32.77  79.93
+
+Charleston-WV  38.37  81.6
+
+Charlotte  35.22  80.93
+
+Chattanooga  35.03  85.2
+
+Cheyenne  41.15  104.82
+
+Chicago  41.9  87.65
+
+Cincinnati  39.1  84.43
+
+Cleveland  41.42  81.87
+
+Columbia-SC  33.95  81.12
+
+Columbus-OH  40.0  82.88
+
+Dallas  32.73  96.97
+
+Denver  39.75  104.87
+
+Des-Moines  41.53  93.65
+
+Detroit  42.42  83.02
+
+El-Paso  31.8  106.4
+
+Fargo  46.9  96.8
+
+Flagstaff  35.13  111.67
+
+Gainesville  29.68  82.27
+
+Harrisburg  40.22  76.85
+
+Houston  29.97  95.35
+
+Indianapolis  39.73  86.27
+
+Jackson-MS  32.32  90.08
+
+Julesburg-CO  40.98  102.26
+
+Kansas-City  39.12  94.6
+
+Knoxville  35.82  83.98
+
+Las-Vegas  36.08  115.17
+
+Lexington  38.05  85.0
+
+Little-Rock  35.22  92.38
+
+Los-Angeles  33.93  118.4
+
+Louisville  38.18  85.73
+
+Lubbock  33.65  101.82
+
+Macon  32.84  83.65
+
+Madison  43.13  89.33
+
+Memphis  35.35  89.87
+
+Miami  25.46  80.12
+
+Minneapolis  44.88  93.22
+
+Missoula  46.92  114.08
+
+Mobile  30.68  88.25
+
+Montgomery  32.3  86.4
+
+Nashville  36.12  86.68
+
+New-Orleans  29.98  90.25
+
+New-York  40.77  73.98
+
+Norfolk-VA  36.54  76.12
+
+Oklahoma-City  35.4  97.6
+
+Omaha  41.3  95.9
+
+Orlando  28.55  81.33
+
+Philadelphia  39.88  75.25
+
+Phoenix  33.43  112.02
+
+Pittsburgh  40.5  80.22
+
+Portland  45.6  122.6
+
+Raleigh  35.87  78.78
+
+Richmond  37.5  77.33
+
+Roanoke  37.32  79.97
+
+Sacramento  38.7  121.6
+
+Salt-Lake-City  40.78  111.97
+
+San-Antonio  29.33  98.47
+
+San-Francisco  37.75  122.68
+
+San-Jose  37.37  121.92
+
+Savannah  32.07  81.1
+
+Seattle  47.45  122.3
+
+Sioux-Falls  43.58  96.73
+
+St-Louis  38.75  90.37
+
+Syracuse  43.04  76.13
+
+Tampa  27.97  82.53
+
+Toledo  41.6  83.8
+
+Washington-DC  38.85  77.04
+
+Albany-NY  5
+Binghamton I-88   135.0 
+Boston I-90   166.0 
+Burlington-VT I-87   190.0 
+New-York I-87   159.0 
+Syracuse I-90   144.0 
+
+Albert-Lea-MN  4
+Des-Moines I-35   148.0 
+Madison I-90   267.0 
+Minneapolis I-35   98.0 
+Sioux-Falls I-90   176.0 
+
+Albuquerque  4
+Amarillo I-40   287.0 
+Denver I-25   445.0 
+El-Paso I-25   189.0 
+Flagstaff I-40   328.0 
+
+Amarillo  3
+Albuquerque I-40   287.0 
+Oklahoma-City I-40   259.0 
+Lubbock I-27   118.0 
+
+Atlanta  6
+Birmingham I-20   148.0 
+Chattanooga I-75   108.0 
+Charlotte I-85   240.0 
+Columbia-SC I-20   219.0 
+Macon I-75   86.0 
+Montgomery I-85   167.0 
+
+Baltimore  3
+Harrisburg I-83   87.0 
+Philadelphia I-95   104.0 
+Washington-DC I-95   35.0 
+
+Bangor  2
+Boston I-95   240.0 
+Burlington-VT US-2   288.0 
+
+Barstow-CA  3
+Flagstaff I-40   354.0 
+Las-Vegas I-15   155.0 
+Los-Angeles I-15   120.0 
+
+Billings  3
+Buffalo-WY I-25   175.0 
+Fargo I-94   608.0 
+Butte-MT I-90   223.0 
+
+Binghamton  4
+Syracuse I-81   73.0 
+Albany-NY I-88   135.0 
+Buffalo-NY I-86/NY-17   202.0 
+Harrisburg I-81   180.0 
+
+Birmingham  6
+Atlanta I-20   148.0 
+Chattanooga I-59   143.0 
+Jackson-MS I-20   234.0 
+Memphis I-78   247.0 
+Montgomery I-65   92.0 
+Nashville I-65   222.0 
+
+Boise  2
+Salt-Lake-City I-84   348.0 
+Portland I-84   428.0 
+
+Boston  3
+Bangor I-95   240.0 
+New-York I-95   182.0 
+Albany-NY I-90   166.0 
+
+Buffalo-NY  3
+Binghamton I-86/NY-17   202.0 
+Cleveland I-90   191.0 
+Syracuse I-90   150.0 
+
+Buffalo-WY  3
+Cheyenne I-25   293.0 
+Sioux-Falls I-90   560.0 
+Billings I-25   175.0 
+
+Burlington-VT  2
+Bangor US-2   288.0 
+Albany-NY I-87   190.0 
+
+Butte-MT  3
+Missoula I-90   119.0 
+Salt-Lake-City I-15   413.0 
+Billings I-90   223.0 
+
+Charleston-SC  1
+Columbia-SC I-26   113.0 
+
+Charleston-WV  4
+Cleveland I-77   250.0 
+Lexington I-64   177.0 
+Roanoke WVA-Tnpk   180.0 
+Pittsburgh I-79   229.0 
+
+Charlotte  4
+Columbia-SC I-77   91.0 
+Roanoke I-77   195.0 
+Raleigh I-85   168.0 
+Atlanta I-85   240.0 
+
+Chattanooga  4
+Knoxville I-75   114.0 
+Nashville I-24   128.0 
+Birmingham I-59   143.0 
+Atlanta I-75   108.0 
+
+Cheyenne  4
+Denver I-25   100.0 
+Julesburg-CO I-80   145.0 
+Salt-Lake-City I-80   434.0 
+Buffalo-WY I-25   293.0 
+
+Chicago  6
+Detroit I-94   278.0 
+Indianapolis I-65   185.0 
+Des-Moines I-80   345.0 
+Madison I-90   145.0 
+St-Louis I-55   301.0 
+Toledo I-80/90   244.0 
+
+Cincinnati  5
+Columbus-OH I-71   111.0 
+Indianapolis I-74   112.0 
+Lexington I-75   82.0 
+Louisville I-71   103.0 
+Toledo I-75   210.0 
+
+Cleveland  6
+Buffalo-NY I-90   191.0 
+Charleston-WV I-77   250.0 
+Toledo I-80/90   119.0 
+Columbus-OH I-41   141.0 
+New-York I-80   492.0 
+Pittsburgh I-76   156.0 
+
+Columbia-SC  4
+Atlanta I-20   219.0 
+Charleston-SC I-26   113.0 
+Charlotte I-20   91.0 
+Raleigh I-95/I-20   228.0 
+
+Columbus-OH  4
+Indianapolis I-70   178.0 
+Pittsburgh I-70   187.0 
+Cleveland I-41   141.0 
+Cincinnati I-71   111.0 
+
+Dallas  6
+Lubbock I-20/US-84   349.0 
+Houston I-45   244.0 
+Jackson-MS I-20   406.0 
+Little-Rock I-30   320.0 
+Oklahoma-City I-35   208.0 
+San-Antonio I-35   278.0 
+
+Denver  4
+Albuquerque I-25   445.0 
+Cheyenne I-25   100.0 
+Kansas-City I-70   612.0 
+Julesburg-CO I-76   190.0 
+
+Des-Moines  4
+Albert-Lea-MN I-35   148.0 
+Chicago I-80   345.0 
+Kansas-City I-35   194.0 
+Omaha I-80   135.0 
+
+Detroit  2
+Chicago I-94   278.0 
+Toledo I-75   62.0 
+
+El-Paso  4
+Lubbock US-82   376.0 
+Phoenix I-10   437.0 
+San-Antonio I-10   557.0 
+Albuquerque I-25   189.0 
+
+Fargo  3
+Billings I-94   608.0 
+Sioux-Falls I-29   144.0 
+Minneapolis I-94   240.0 
+
+Flagstaff  3
+Barstow-CA I-40   354.0 
+Albuquerque I-40   328.0 
+Phoenix I-17   136.0 
+
+Gainesville  3
+Macon I-75   255.0 
+Orlando I-75/FL-Tpke   113.0 
+Tampa I-75   130.0 
+
+Harrisburg  6
+Baltimore I-83   87.0 
+Binghamton I-81   180.0 
+New-York I-78   198.0 
+Pittsburgh I-76   204.0 
+Philadelphia I-76   114.0 
+Roanoke I-81   289.0 
+
+Houston  3
+Dallas I-45   244.0 
+New-Orleans I-10   352.0 
+San-Antonio I-10   197.0 
+
+Indianapolis  5
+Chicago I-65   185.0 
+Cincinnati I-74   112.0 
+Columbus-OH I-70   178.0 
+Louisville I-65   114.0 
+St-Louis I-65   246.0 
+
+Jackson-MS  4
+Birmingham I-20   234.0 
+New-Orleans I-55   180.0 
+Dallas I-20   406.0 
+Memphis I-55   213.0 
+
+Julesburg-CO  3
+Cheyenne I-80   145.0 
+Denver I-76   190.0 
+Omaha I-80   365.0 
+
+Kansas-City  5
+Omaha I-29   197.0 
+Denver I-70   612.0 
+Des-Moines I-35   194.0 
+St-Louis I-70   253.0 
+Oklahoma-City I-35   349.0 
+
+Knoxville  4
+Chattanooga I-75   114.0 
+Nashville I-40   178.0 
+Roanoke I-81   257.0 
+Lexington I-75   173.0 
+
+Las-Vegas  2
+Barstow-CA I-15   155.0 
+Salt-Lake-City I-15   417.0 
+
+Lexington  4
+Charleston-WV I-64   177.0 
+Cincinnati I-75   82.0 
+Knoxville I-75   173.0 
+Louisville I-64   79.0 
+
+Little-Rock  3
+Dallas I-30   320.0 
+Memphis I-40   137.0 
+Oklahoma-City I-40   340.0 
+
+Los-Angeles  3
+Barstow-CA I-15   120.0 
+San-Jose I-5   320.0 
+Phoenix I-10   367.0 
+
+Louisville  5
+Cincinnati I-71   103.0 
+Indianapolis I-65   114.0 
+Lexington I-64   79.0 
+Nashville I-65   176.0 
+St-Louis I-64   258.0 
+
+Lubbock  3
+Amarillo I-27   118.0 
+El-Paso US-82   376.0 
+Dallas I-20/US-84   349.0 
+
+Macon  3
+Atlanta I-75   86.0 
+Gainesville I-75   255.0 
+Savannah I-16   166.0 
+
+Madison  3
+Albert-Lea-MN I-90   267.0 
+Chicago I-90   145.0 
+Minneapolis I-94   301.0 
+
+Memphis  5
+Birmingham I-78   247.0 
+Jackson-MS I-55   213.0 
+Little-Rock I-40   137.0 
+Nashville I-40   198.0 
+St-Louis I-55   319.0 
+
+Miami  2
+Orlando FL-Tpke   233.0 
+Tampa I-75   279.0 
+
+Minneapolis  3
+Madison I-94   301.0 
+Fargo I-94   240.0 
+Albert-Lea-MN I-35   98.0 
+
+Missoula  2
+Butte-MT I-90   119.0 
+Seattle I-90   482.0 
+
+Mobile  2
+Montgomery I-65   170.0 
+New-Orleans I-10   148.0 
+
+Montgomery  3
+Mobile I-65   170.0 
+Birmingham I-65   92.0 
+Atlanta I-85   167.0 
+
+Nashville  5
+Memphis I-40   198.0 
+Louisville I-65   176.0 
+Knoxville I-40   178.0 
+Chattanooga I-24   128.0 
+Birmingham I-65   222.0 
+
+New-Orleans  3
+Mobile I-10   148.0 
+Jackson-MS I-55   180.0 
+Houston I-10   352.0 
+
+New-York  5
+Philadelphia I-95   109.0 
+Harrisburg I-78   198.0 
+Cleveland I-80   492.0 
+Boston I-95   182.0 
+Albany-NY I-87   159.0 
+
+Norfolk-VA  1
+Richmond I-64   93.0 
+
+Oklahoma-City  5
+St-Louis I-44   496.0 
+Little-Rock I-40   340.0 
+Kansas-City I-35   349.0 
+Dallas I-35   208.0 
+Amarillo I-40   259.0 
+
+Omaha  4
+Sioux-Falls I-29   182.0 
+Kansas-City I-29   197.0 
+Julesburg-CO I-80   365.0 
+Des-Moines I-80   135.0 
+
+Orlando  4
+Miami FL-Tpke   233.0 
+Savannah I-95/I-4   281.0 
+Tampa I-4   83.0 
+Gainesville I-75/FL-Tpke   113.0 
+
+Philadelphia  3
+New-York I-95   109.0 
+Harrisburg I-76   114.0 
+Baltimore I-95   104.0 
+
+Phoenix  3
+Los-Angeles I-10   367.0 
+Flagstaff I-17   136.0 
+El-Paso I-10   437.0 
+
+Pittsburgh  4
+Harrisburg I-76   204.0 
+Columbus-OH I-70   187.0 
+Cleveland I-76   156.0 
+Charleston-WV I-79   229.0 
+
+Portland  3
+Seattle I-5   174.0 
+Sacramento I-5   642.0 
+Boise I-84   428.0 
+
+Raleigh  5
+Richmond I-95   148.0 
+Roanoke I-40   172.0 
+Columbia-SC I-95/I-20   228.0 
+Charlotte I-85   168.0 
+Savannah I-95   321.0 
+
+Richmond  3
+Washington-DC I-95   105.0 
+Raleigh I-95   148.0 
+Norfolk-VA I-64   93.0 
+
+Roanoke  5
+Raleigh I-40   172.0 
+Knoxville I-81   257.0 
+Harrisburg I-81   289.0 
+Charlotte I-77   195.0 
+Charleston-WV WVA-Tnpk   180.0 
+
+Sacramento  4
+San-Jose I-5   60.0 
+San-Francisco I-80   91.0 
+Salt-Lake-City I-80   653.0 
+Portland I-5   642.0 
+
+Salt-Lake-City  5
+Boise I-84   348.0 
+Sacramento I-80   653.0 
+Las-Vegas I-15   417.0 
+Cheyenne I-80   434.0 
+Butte-MT I-15   413.0 
+
+San-Antonio  3
+Houston I-10   197.0 
+El-Paso I-10   557.0 
+Dallas I-35   278.0 
+
+San-Francisco  2
+San-Jose I-580   40.0 
+Sacramento I-80   91.0 
+
+San-Jose  3
+San-Francisco I-580   40.0 
+Sacramento I-5   60.0 
+Los-Angeles I-5   320.0 
+
+Savannah  3
+Macon I-16   166.0 
+Raleigh I-95   321.0 
+Orlando I-95/I-4   281.0 
+
+Seattle  2
+Portland I-5   174.0 
+Missoula I-90   482.0 
+
+Sioux-Falls  4
+Albert-Lea-MN I-90   176.0 
+Omaha I-29   182.0 
+Fargo I-29   144.0 
+Buffalo-WY I-90   560.0 
+
+St-Louis  6
+Oklahoma-City I-44   496.0 
+Memphis I-55   319.0 
+Louisville I-64   258.0 
+Kansas-City I-70   253.0 
+Indianapolis I-65   246.0 
+Chicago I-55   301.0 
+
+Syracuse  3
+Buffalo-NY I-90   150.0 
+Binghamton I-81   73.0 
+Albany-NY I-90   144.0 
+
+Tampa  3
+Orlando I-4   83.0 
+Gainesville I-75   130.0 
+Miami I-75   279.0 
+
+Toledo  4
+Detroit I-75   62.0 
+Cleveland I-80/90   119.0 
+Cincinnati I-75   210.0 
+Chicago I-80/90   244.0 
+
+Washington-DC  2
+Richmond I-95   105.0 
+Baltimore I-95   35.0 
+
+
+Route: 687.0
+Miami  Orlando  FL-Tpke
+Orlando  Gainesville  I-75/FL-Tpke
+Gainesville  Macon  I-75
+Macon  Atlanta  I-75
+

@@ -1,0 +1,5 @@
+Route: 687.0
+Miami Orlando FL-Tpke
+Orlando Gainesville I-75/FL-Tpke
+Gainesville Macon I-75
+Macon Atlanta I-75
